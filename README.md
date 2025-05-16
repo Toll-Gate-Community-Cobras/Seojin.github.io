@@ -1,37 +1,41 @@
+
 <!DOCTYPE html>
 <html>
 <head>
 <style>
-table, th, td {
-  border: 1px solid black;
+table {
   border-collapse: collapse;
+  width: 100%;
+}
+
+tr {
+  border-bottom: 4px solid #ddd;
 }
 </style>
 </head>
 <body>
 
-<h2>A header that spans two columns</h2>
+<h2>Bordered Table Dividers</h2>
+<p>Add the border-bottom property to the tr elements for horizontal dividers:</p>
 
-<p>Use the colspan attribute to have a header span over multiple columns.</p>
-
-<table style="width:100%">
+<table>
   <tr>
     <th>Sports</th>
-    <th colspan="3">Soccer</th>
+    <th>Soccer</th>
   </tr>
   <tr>
-    <th>Gear/Apparel</th>
+    <td>Gears/Apparels</td>
     <td>Cleats</td>
     <td>Jersey</td>
     <td>Ball</td>
   </tr>
   <tr>
-    <th>Price</th>
+    <td>Price</td>
     <td>$150</td>
     <td>$65</td>
     <td>$60</td>
   </tr>
 </table>
+
 </body>
 </html>
-
