@@ -14,8 +14,7 @@ tr {
 </head>
 <body>
 
-<h2>Bordered Table Dividers</h2>
-<p>Add the border-bottom property to the tr elements for horizontal dividers:</p>
+<h2>Soccer Gears/Apparels</h2>
 
 <table>
   <tr>
