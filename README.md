@@ -23,13 +23,13 @@ tr {
     <th>Soccer</th>
   </tr>
   <tr>
-    <td>Gears/Apparels</td>
+    <th>Gears/Apparels</th>
     <td>Cleats</td>
     <td>Jersey</td>
     <td>Ball</td>
   </tr>
   <tr>
-    <td>Price</td>
+    <th>Price</th>
     <td>$150</td>
     <td>$65</td>
     <td>$60</td>
