@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+tr {
+  border-bottom: 4px solid #ddd;
+}
+</style>
+</head>
+<body>
+
+<h2>Bordered Table Dividers</h2>
+<p>Add the border-bottom property to the tr elements for horizontal dividers:</p>
+
+<table>
+  <tr>
+    <th>Sports</th>
+    <th>Football</th>
+  </tr>
+  <tr>
+    <th>Gears/Apparels</th>
+    <td>Helmet</td>
+    <td>Jersey</td>
+    <td>Ball</td>
+  </tr>
+  <tr>
+    <th>Price</th>
+    <td>$250</td>
+    <td>$65</td>
+    <td>$75</td>
+  </tr>
+</table>
+
+</body>
+</html>
